@@ -6,7 +6,7 @@
 
 <h4>👀 I’m passionate about making tech accessible to everyone!</h4>
 
-<img src="https://giphy.com/embed/3orif3NCyKZ61frBHa" height="250px" alt="A clip from the Simpsons. Homer is holding his hand on an access pad, and caption says: 'Palm recognised, access granted' ">
+<img src="https://media.giphy.com/media/3orif3NCyKZ61frBHa/giphy.gif" height="250px" alt="A clip from the Simpsons. Homer is holding his hand on an access pad, and caption says: 'Palm recognised, access granted' ">
 
 <h4>💻 My coding languages of choice are Java, HTML, CSS, JavaScript and Python</h4>
 <h4>🤖 Ask me about my robots</h4>
