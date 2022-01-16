@@ -2,7 +2,7 @@
 
 <h4>👋 Hi, I’m @MaddyKilmurray</h4>
 
-<img href="">
+<img href="https://ibb.co/4Y4LZGt" alt="A picture of me, in front of a cityscape background. I'm white, with red hair, brown-framed glasses and a wide smile">
 
 <h4>👀 I’m passionate about making tech accessible to everyone!</h4>
 <h4>💻 My coding languages of choice are Java, HTML, CSS, JavaScript and Python</h4>
