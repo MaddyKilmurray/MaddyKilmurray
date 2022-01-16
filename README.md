@@ -14,7 +14,7 @@
 
 <br />
 
-[![Maddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaddyKilmurray)](https://github.com/anuraghazra/github-readme-stats&theme=THEME_NAME)
+[![Maddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaddyKilmurray)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
 
 <h4>I'm a part of Team RIAS, launching a rocket in June 2022. Click <a href="https://www.teamrias.co.uk/" target="_blank">here</a> to find out more!</h4>
 
