@@ -5,6 +5,9 @@
 <img src="https://i.ibb.co/TbPGBS2/profile-pic-1.png" alt="A picture of me, in front of a cityscape background. I'm white, with red hair, brown-framed glasses and a wide smile" width="250px" height="250px">
 
 <h4>👀 I’m passionate about making tech accessible to everyone!</h4>
+
+<img src="https://giphy.com/embed/3orif3NCyKZ61frBHa" height="250px" alt="A clip from the Simpsons. Homer is holding his hand on an access pad, and caption says: 'Palm recognised, access granted' ">
+
 <h4>💻 My coding languages of choice are Java, HTML, CSS, JavaScript and Python</h4>
 <h4>🤖 Ask me about my robots</h4>
 <h4>📫 Send me an email at maddy.kilsbymcmurray@gmail.com</h4>
