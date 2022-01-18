@@ -9,8 +9,16 @@
 <img src="https://media.giphy.com/media/3orif3NCyKZ61frBHa/giphy.gif" height="250px" alt="A clip from the Simpsons. Homer is holding his hand on an access pad, and caption says: 'Palm recognised, access granted' ">
 
 <h4>💻 My coding languages of choice are Java, HTML, CSS, JavaScript and Python</h4>
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="250px" alt="Javascript code scrolling on a black screen">
+
 <h4>🤖 Ask me about my robots</h4>
+
+<img src="https://i.pinimg.com/originals/b9/7f/83/b97f83b85d73d44bf8aaa9aaa381c85d.gif" height="250px" alt="A humaniod robot falls over after freezing while opening a door">
+
 <h4>📫 Send me an email at maddy.kilsbymcmurray@gmail.com</h4>
+
+<img src="https://support.politemail.com/hc/article_attachments/360041744473/giphy7.gif" height="250px" alt="An outline of a blue envelop on a white background. It has a grumpy face, until it shakes, and the envelope opens. Then the face is happy, and a letter pops out">
 
 <br />
 
