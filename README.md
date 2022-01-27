@@ -1,6 +1,6 @@
 
 
-<h4>👋 Hi, I’m @MaddyKilmurray, and I am available to work</h4>
+<h4>👋 Hi, I’m @MaddyKilmurray, and I'm a beginner Web Developer</h4>
 
 <img src="https://i.ibb.co/TbPGBS2/profile-pic-1.png" alt="A picture of me, in front of a cityscape background. I'm white, with red hair, brown-framed glasses and a wide smile" width="250px" height="250px">
 
