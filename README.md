@@ -1,8 +1,12 @@
 # 💫 About Me:
 
-<h4>👋 Hi, I’m Maddy McMurray, and I'm a Junior Software Developer</h4>
+<h4>👋 Hi, I’m Maddy McMurray, and I'm a Associate Performance Engineer</h4>
 
 <img src="https://i.ibb.co/TbPGBS2/profile-pic-1.png" alt="A picture of me, in front of a cityscape background. I'm white, with red hair, brown-framed glasses and a wide smile" width="250px" height="250px">
+
+<h4>Want me to test your code?</h4>
+
+<a href="https://www.fiverr.com/share/bD8pxX">Check me out on fiverr!</a>
 
 <h4>👀 I’m passionate about making tech accessible to everyone!</h4>
 
